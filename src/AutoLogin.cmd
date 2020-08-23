@@ -4,7 +4,7 @@ title BypassAuth
 color 0a
 echo.
 echo -------------------------------------------------------------------------
-echo     BypassAuth will allow you to Auto Login in Microsoft Windows
+echo     AutoLogin will allow you to Automatically Login in Microsoft Windows
 echo                           written with love by
 echo.
 echo                             [   SUMAN ROY   ]
