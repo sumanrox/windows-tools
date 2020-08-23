@@ -18,9 +18,9 @@ echo =========
 echo      MENU
 echo =========
 echo.
-echo [ 1 ]  Enable Password Authentication in Windows Systems
+echo [ 1 ]  Enable Auto Login
 echo.
-echo [ 2 ]  Disable Password Authentication in Windows Systems
+echo [ 2 ]  Disable Auto Login
 echo.
 
 :: Give the Choice to User
