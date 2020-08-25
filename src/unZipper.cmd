@@ -4,7 +4,10 @@ setlocal
 cd /d %~dp0
 echo.
 echo ------------------------------------------------------
-echo                UN-ZIPPER BY SUMAN ROY
+echo                UN-ZIPPER by Suman Roy
+echo 	unzip files without thrid party application
+echo.
+echo     Check out my page at github.com/sumanrox
 echo ------------------------------------------------------
 echo.
 

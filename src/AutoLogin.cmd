@@ -4,10 +4,14 @@ title BypassAuth
 color 0a
 echo.
 echo -------------------------------------------------------------------------
-echo     AutoLogin will allow you to Automatically Login in Microsoft Windows
+echo     AutoLogin will allow you to Automatically Login 
+echo		in Microsoft Windows
+echo.
 echo                           written with love by
 echo.
 echo                             [   SUMAN ROY   ]
+echo.
+echo     Check out my page at github.com/sumanrox
 echo -------------------------------------------------------------------------
 echo.
 echo Note : This script needs to be run as an Administrator
