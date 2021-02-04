@@ -13,4 +13,8 @@ This repository contains tools to mitigate common situations in windows environm
         <td><a href="https://github.com/SumanRoX/windows-tools/raw/master/test/wut.exe" download="winUT.exe">Download C-Build</a></td>
         <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/Windows-UT.cmd" download="winUT.cmd">Download Batch Build</a></td>
     <tr>
+    <tr>
+        <td><p>KMS Activator</p></td>
+        <td><a href="https://github.com/SumanRoX/windows-tools/raw/master/bin/KMSAuto Net.exe" download="KMS">Download</a></td>
+    </tr>
 </table>
