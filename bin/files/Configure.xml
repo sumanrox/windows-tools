@@ -1,13 +1,6 @@
 <Configuration>
-<Add OfficeClientEdition="32" Channel="Monthly">
-    <Product ID="ProplusRetail">
-      <Language ID="en-US" />
-    </Product>
-    <Product ID="ProjectProRetail">
-      <Language ID="en-US" />
-      <ExcludeApp ID="OneDrive" />
-    </Product>
-    <Product ID="VisioProRetail">
+<Add OfficeClientEdition="64" Channel="Monthly">
+    <Product ID="Publisher2019Retail">
       <Language ID="en-US" />
       <ExcludeApp ID="OneDrive" />
     </Product>
@@ -17,8 +10,8 @@
 </Configuration>
 <!--  OInstallSetting Branch=1  -->
 <!--  OInstallSetting Office=0  -->
-<!--  OInstallSetting Arch=0  -->
-<!--  OInstallSetting Redact=1  -->
+<!--  OInstallSetting Arch=1  -->
+<!--  OInstallSetting Redact=2  -->
 <!--  OInstallSetting Product=1  -->
 <!--  OInstallSetting OnlineKMS=1  -->
 <!--  OInstallSetting PATH=  -->
