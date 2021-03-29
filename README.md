@@ -31,11 +31,18 @@ This repository contains tools to mitigate common situations in windows environm
     <tr> 
     <tr>
         <td><p>Power ISO</p></td>
-        <td><a href="https://github.com/SumanRoX/windows-tools/raw/master/bin/PowerISO.zip" download="PowerISO.zip">Download</a></td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/SumanRoX/windows-tools/raw/master/bin/3rd%20Party/PowerISO.zip" download="PowerISO.zip">Download</a></td>
     <tr>
     <tr>
         <td><p>KMS Activator</p></td>
-        <td><a href="https://github.com/SumanRoX/windows-tools/raw/master/bin/KMSAuto Net.exe" download="KMS">Download</a></td>
+        <td><a href="https://github.com/SumanRoX/windows-tools/raw/master/bin/3rd%20Party/KMS_Auto_Patcher.exe" download="KMS Auto">Download</a></td>
+    </tr>
+    <tr>
+        <td><p>Office 2019 Pro Installer</p></td>
+        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/bin/3rd%20Party/Office%20Installer%202019%20Pro.zip" download="Office 2019 Pro Installer">Download</a></td>
+    </tr>
+    <tr>
+        <td><p>Adobe Universal Patcher</p></td>
+        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/bin/3rd%20Party/Universal%20Adobe%20Patcher.exe" download="Adobe Patcher">Download</a></td>
     </tr>
 </table>
