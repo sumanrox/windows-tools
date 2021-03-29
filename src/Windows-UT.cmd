@@ -1,19 +1,21 @@
 @echo off
 cls
 title Windows Update Troubleshoot
-color 0a
+color 09
 echo.
-echo -------------------------------------------------------------------------
-echo       		Windows-UT by [   Suman Roy  ]
-echo       Windows UT utility will allow you to troubleshoot windows update issues
+echo -----------------------------------------------
+echo       		Windows-UT [   Suman Roy  ]
+echo.
+echo       Windows UT utility will allow you to 
+echo         troubleshoot windows update issues
 echo.
 echo.
 echo     Check out my page at github.com/sumanrox
-echo -------------------------------------------------------------------------
+echo -----------------------------------------------
 echo.
 echo Starting the Update Troubleshooting Service
 echo.
-timeout /t 5 /nobreak
+timeout /t 10 /nobreak
 cls
 call :STOP_SERVICE
 call :CLEAN_UPDATE_CACHE
@@ -28,7 +30,7 @@ EXIT /B %ERRORLEVEL%
 :RUN_RESTORATION
 cls
 echo Running Restoration
-echo -------------------------------------------------------------------------
+echo -----------------------------------------------
 echo.
 sfc /scannow
 dism /online /cleanupimage /restorehealth
@@ -45,7 +47,7 @@ exit /B 0
 :STOP_SERVICE
 cls
 echo Stopping Services
-echo ------------------------------------------------------------------------- 
+echo ----------------------------------------------- 
 net stop bits
 net stop wuauserv
 net stop appidsvc
@@ -54,7 +56,7 @@ exit /B 0
 :START_SERVICE
 cls
 echo Starting Services
-echo -------------------------------------------------------------------------
+echo -----------------------------------------------
 net start bits
 net start wuauserv
 net start appidsvc

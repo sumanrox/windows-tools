@@ -5,7 +5,7 @@ This repository contains tools to mitigate common situations in windows environm
 <table>
     <tr>
         <th>Tool Name</th>
-        <th>C/C++ Build</th>
+        <th>Executable Build</th>
         <th>Batch Build</th>
     <tr>
     <tr>

@@ -4,12 +4,12 @@ title BypassAuth
 color 0a
 echo.
 echo -------------------------------------------------------------------------
-echo     AutoLogin will allow you to Automatically Login 
-echo		in Microsoft Windows
+echo            AutoLogin will allow you to Automatically Login 
+echo		                   in Microsoft Windows
 echo.
 echo                           written with love by
 echo.
-echo                             [   SUMAN ROY   ]
+echo                             [   Suman Roy   ]
 echo.
 echo     Check out my page at github.com/sumanrox
 echo -------------------------------------------------------------------------
@@ -38,7 +38,7 @@ exit
 echo.
 echo You have chosen to Enable Auto Login
 echo -------------------------------------
-set /p pass=[+] Enter Password for your Computer :
+set /p pass=[+] Enter Password of your Computer :
 echo.
 :: Passing username
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WinLogon" /v DefaultUserName /D %username% /F

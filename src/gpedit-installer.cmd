@@ -2,13 +2,13 @@
 title Windows GroupPolicy Installer
 color 0a
 echo.
-echo -------------------------------------------------------------------------
-echo       		Windows GroupPolicy Installer by 
+echo ---------------------------------------------------
+echo       		Windows GroupPolicy Installer
 echo                          by
 echo                    [   Suman Roy  ]
 echo.
 echo     Check out my page at github.com/sumanrox
-echo -------------------------------------------------------------------------
+echo ---------------------------------------------------
 echo.
 echo Starting the Installer
 timeout /t 10 /nobreak
