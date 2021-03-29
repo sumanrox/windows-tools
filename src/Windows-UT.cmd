@@ -11,24 +11,52 @@ echo.
 echo     Check out my page at github.com/sumanrox
 echo -------------------------------------------------------------------------
 echo.
-echo Starting Troubleshooter
-timeout /t 10
-cls 
+echo Starting the Update Troubleshooting Service
+echo.
+timeout /t 5 /nobreak
+cls
+call :STOP_SERVICE
+call :CLEAN_UPDATE_CACHE
+call :RUN_RESTORATION
+call :START_SERVICE
+cls
+echo Restarting the system
+echo.
+timeout /t 5 /nobreak
+shutdown /f /r /t 00
+EXIT /B %ERRORLEVEL%
+:RUN_RESTORATION
+cls
+echo Running Restoration
+echo -------------------------------------------------------------------------
+echo.
+sfc /scannow
+dism /online /cleanupimage /restorehealth
+exit /B 0
+:CLEAN_UPDATE_CACHE
+cls
+echo Creating Backup of Update Cache
+move %systemroot%\SoftwareDistribution SoftwareDistribution.old
+move %systemroot%\system32\catroot2 catroot2.old
+echo Creating Clean Cache
+mkdir %systemroot%\SoftwareDistribution
+mkdir %systemroot%\system32\catroot2
+exit /B 0
+:STOP_SERVICE
+cls
+echo Stopping Services
+echo ------------------------------------------------------------------------- 
 net stop bits
 net stop wuauserv
 net stop appidsvc
 net stop cryptsvc
+exit /B 0
+:START_SERVICE
 cls
-sfc /scannow
-dism /online /cleanupimage /restorehealth
-cls
-rmdir %systemroot%\SoftwareDistribution /S /Q
-rmdir %systemroot%\system32\catroot2 /S /Q
+echo Starting Services
+echo -------------------------------------------------------------------------
 net start bits
 net start wuauserv
 net start appidsvc
 net start cryptsvc
-cls
-echo Restarting System in 20 Secs
-echo.
-echo Check for updates after restart is done
+exit /B 0

@@ -16,7 +16,7 @@ This repository contains tools to mitigate common situations in windows environm
     <tr>
         <td><p>Gpedit Installer</p></td>
         <td><a href=""></a></td>
-        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/gpedit-enabler.bat" download="gpedit_installer.cmd">Download</a></td>
+        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/gpedit-installer.cmd" download="gpedit-installer.cmd">Download</a></td>
     <tr>
     <tr>
         <td><p>Auto Login in Windows 10</p></td>
