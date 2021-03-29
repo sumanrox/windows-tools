@@ -10,22 +10,23 @@ This repository contains tools to mitigate common situations in windows environm
     <tr>
     <tr>
         <td><p>Windows Update Troubleshooter</p></td>
-        <td><a href=""></a></td>
+        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/bin/Batch%20Executable/windows_ut.exe" download="Windows Update Troubleshooter">Download</a></td>
         <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/Windows-UT.cmd" download="winUT.cmd">Download</a></td>
     <tr>
     <tr>
         <td><p>Gpedit Installer</p></td>
-        <td><a href=""></a></td>
+        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/bin/Batch%20Executable/gpedit-installer.exe" download="gpedit-installer.exe">Download</a></td>
         <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/gpedit-installer.cmd" download="gpedit-installer.cmd">Download</a></td>
     <tr>
     <tr>
         <td><p>Auto Login in Windows 10</p></td>
-        <td><a href=""></a></td>
+        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/bin/Batch%20Executable/Auto Login.exe" download="Auto Login">Download</a></td>
         <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/AutoLogin.cmd" download="Auto_Login.cmd">Download</a></td>
     <tr>
        <tr>
         <td><p>Unzip using Batch</p></td>
-        <td><a href=""></a></td>
+        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/bin/Batch%20Executable/unzipper.exe" download="unzipper">
+        Download</a></td>
         <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/unZipper.cmd" download="unzip.cmd">Download</a></td>
     <tr> 
     <tr>
