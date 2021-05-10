@@ -9,8 +9,8 @@ This Repository contains tools for troubleshooting in windows
     <tr>
     <tr>
         <td><p>Windows Update Troubleshooter</p></td>
-        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/bin/Batch%20Executable/windows_ut.exe" download="Windows Update Troubleshooter">Download</a></td>
-        <td><a href="https://raw.githubusercontent.com/SumanRoX/windows-tools/master/src/Windows-UT.cmd" download="winUT.cmd">Download</a></td>
+        <td></td>
+        <td>[download][\src\batch-scripts\automated-windows-update-troubleshooter.cmd]</td>
     <tr>
     <tr>
         <td><p>Gpedit Installer</p></td>
