@@ -1,7 +1,7 @@
 @echo off
 cls
 title Windows Update Troubleshoot
-color 09
+color 0a
 echo.
 echo -----------------------------------------------
 echo       		Windows-UT [   Suman Roy  ]
@@ -33,7 +33,7 @@ echo Running Restoration
 echo -----------------------------------------------
 echo.
 sfc /scannow
-dism /online /cleanupimage /restorehealth
+dism /online /cleanup-image /restorehealth
 exit /B 0
 :CLEAN_UPDATE_CACHE
 cls

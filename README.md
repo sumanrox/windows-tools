@@ -1,7 +1,6 @@
 # Windows Tools
 
-This repository contains tools to mitigate common situations in windows environment 
-
+This Repository contains tools for troubleshooting in windows 
 <table>
     <tr>
         <th>Tool Name</th>
