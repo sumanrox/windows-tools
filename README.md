@@ -1,6 +1,7 @@
 # Windows Tools
 
 This Repository contains tools for troubleshooting in windows 
+[download](/src/batch-scripts/automated-windows-update-troubleshooter.cmd)
 <table>
     <tr>
         <th>Tool Name</th>
