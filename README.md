@@ -10,7 +10,7 @@ This Repository contains tools for troubleshooting in windows
     <tr>
         <td><p>Windows Update Troubleshooter</p></td>
         <td></td>
-        <td>[download](/src/batch-scripts/automated-windows-update-troubleshooter.cmd"</td>
+        <td>[download](/src/batch-scripts/automated-windows-update-troubleshooter.cmd)</td>
     <tr>
     <tr>
         <td><p>Gpedit Installer</p></td>
