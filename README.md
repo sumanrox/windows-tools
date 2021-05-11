@@ -9,7 +9,7 @@
         <td>Download</td> 
         </tr>
         <tr>
-        <td><h2>Batch Scripts</h2></td>
+        <td><h3>Batch Scripts</h3></td>
         </tr>
         <tr>
             <td>Automated - Windows Update Troubeshooter</td>
@@ -40,7 +40,7 @@
             </td>
         </tr>
         <tr>
-        <td><h2>Registry Scripts</h2></td>
+        <td><h3>Registry Scripts</h3></td>
         <tr>
             <td>Google Chrome Virus Scan Failed</td>
             <td>Registry Fix for Google Chrome unable to save files cause of virus scan failure</td>
