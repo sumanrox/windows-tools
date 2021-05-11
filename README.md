@@ -40,8 +40,7 @@
             </td>
         </tr>
         <tr>
-        <hr>
-        <td><h2>Registry Fixes</h2></td>
+        <td><h2>Registry Scripts</h2></td>
         <tr>
             <td>Google Chrome Virus Scan Failed</td>
             <td>Registry Fix for Google Chrome unable to save files cause of virus scan failure</td>
