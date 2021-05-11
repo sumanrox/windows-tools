@@ -40,6 +40,7 @@
             </td>
         </tr>
         <tr>
+        <hr>
         <td><h3>Registry Fixes</h3></td>
         <tr>
             <td>Google Chrome Virus Scan Failed</td>
