@@ -4,12 +4,12 @@
     <h4>This is Repo consist of quick fixes for Windows Troubleshooting</h4>
     <table>
         <tr>
-        <td><h2>Tool<h2></td> 
-        <td><h2>Description<h2></td> 
-        <td><h2>Download<h2></td> 
+        <td>Tool</td> 
+        <td>Description</td> 
+        <td>Download</td> 
         </tr>
         <tr>
-        <td><h4>Batch Scripts</h4></td>
+        <td><h3>Batch Scripts</h3></td>
         </tr>
         <tr>
             <td>Automated - Windows Update Troubeshooter</td>
@@ -30,6 +30,36 @@
             <td>Installs gpedit.msc where you might require for performing troubleshooting on windows policies in Windows 10 Home</td>
             <td>
                 <a href="/src/batch-scripts/gpedit-installer.cmd" download="install-gpedit.msc.cmd">Download Installer</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Quick Access Fix</td>
+            <td>Tool to fix Quick Access unable to save pinned folders after a restart</td>
+            <td>
+                <a href="/src/batch-scripts/quickaccess-fix.cmd" download="quickaccess-fix.cmd">Download Fix</a>
+            </td>
+        </tr>
+        <tr>
+        <td><h3>Registry Fixes</h3></td>
+        <tr>
+            <td>Google Chrome Virus Scan Failed</td>
+            <td>Registry Fix for Google Chrome unable to save files cause of virus scan failure</td>
+            <td>
+                <a href="/src/reg-files/fix-google_chrome-virus-scan-issue.reg" download="google-chrome-fix.reg">Download Fix</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Outlook Link Fix</td>
+            <td>The script fixes the issues where the outlook unable to open any links cause of ogranisation policies</td>
+            <td>
+                <a href="/src/reg-files/fix-outlook-link-issue.reg" download="outlook-fix.reg">Download Fix</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Windows 10 Camera</td>
+            <td>Registry Fix for Windows 10 Camera Black Screen</td>
+            <td>
+                <a href="/src/reg-files/fix-windows-10-camera.reg" download="camera-fix.reg">Download Fix</a>
             </td>
         </tr>
     </table>
