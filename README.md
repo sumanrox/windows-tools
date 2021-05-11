@@ -4,18 +4,18 @@
     <h4>This is Repo consist of quick fixes for Windows Troubleshooting</h4>
     <table>
         <tr>
-        <td>Tool</td> 
-        <td>Description</td> 
-        <td>Download</td> 
+        <td><h2>Tool<h2></td> 
+        <td><h2>Description<h2></td> 
+        <td><h2>Download<h2></td> 
         </tr>
         <tr>
-        <td><h3>Batch Scripts</h3></td>
+        <td><h4>Batch Scripts</h4></td>
         </tr>
         <tr>
             <td>Automated - Windows Update Troubeshooter</td>
             <td>Windows Update Troubeshooter, inspired by workarounds from publically available sources, this will auto-mate the task</td>
             <td>
-                <a href="/src/batch-scripts/automated-windows-update-troubleshooter.cmd" download="windows-update-troubleshooter.cmd">Download Windows-Troubleshooter</a>
+                <a href="/src/batch-scripts/automated-windows-update-troubleshooter.cmd" download="windows-update-troubleshooter.cmd">Download Troubleshooter</a>
             </td>
         </tr>
         <tr>
