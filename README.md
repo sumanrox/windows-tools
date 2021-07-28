@@ -62,5 +62,13 @@
                 <a href="/src/reg-files/fix-windows-10-camera.reg" download="camera-fix.reg">Get Fix</a>
             </td>
         </tr>
+        <td><h3>Binary Files</h3></td>
+        <tr>
+            <td>Droid Kit</td>
+            <td>Data Recovery of Phone, SIM Card, SD Card</td>
+            <td>
+                <a href="/bin/DroidKit.exe" download="DroidKit.exe">Get Setup</a>
+            </td>
+        </tr>
     </table>
 </body>
