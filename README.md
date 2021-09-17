@@ -57,21 +57,21 @@
         </tr>
         <tr>
             <td>Windows 10 Camera</td>
-            <td>zipistry Fix for Windows 10 Camera Black Screen</td>
+            <td>Registry Fix for Windows 10 Camera Black Screen</td>
             <td>
                 <a href="/bin/RegFix/Regfix-windows-10-camera.zip" download="camera-fix.zip">Get Fix</a>
             </td>
         </tr>
         <tr>
             <td>Windows 10 Enable Battery Life Estimate</td>
-            <td>zipistry Fix for Windows 10 Camera Black Screen</td>
+            <td>Registry Fix for Windows 10 to Enable Battery Life Estimate information, restart computer after use</td>
             <td>
                 <a href="/bin/RegFix/Regfix-EnableBatteryIconTimeRemaining.zip" download="Regfix-EnableBatteryIconTimeRemaining.zip">Get Fix</a>
             </td>
         </tr>
         <tr>
             <td>Windows 10 Disable Battery Life Estimate</td>
-            <td>zipistry Fix for Windows 10 Camera Black Screen</td>
+            <td>Registry Fix for Windows 10 to Disable Battery Life Estimate information, restart computer after use</td>
             <td>
                 <a href="/bin/RegFix/RegFix-DisableBatteryIconTimeRemaining.zip" download="RegFix-DisableBatteryIconTimeRemaining.zip">Get Fix</a>
             </td>
