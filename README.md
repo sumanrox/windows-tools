@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <td>Automated - Windows Update Troubeshooter</td>
-            <td>Windows Update Troubeshooter, inspired by workarounds from publically available sources, this will auto-mate the task</td>
+            <td>Windows Update Troubeshooter, inspired by workarounds from publically available sources, this will automate the task</td>
             <td>
                 <a href="/bin/Batch/batch-automated-windows-update-troubleshooter.zip" download="windows-update-troubleshooter.zip">Get Troubleshooter</a>
             </td>
