@@ -89,7 +89,7 @@
             <td>AMTSO Free Tools</td>
             <td>Test for Anti-Phishing, Anit-Malware Download, PUA, Lookups etc.</td>
             <td>
-                <a href="https://www.amtso.org/security-features-check/" target="_blank">Test OpenDNS</a>
+                <a href="https://www.amtso.org/security-features-check/" target="_blank">Check Tools</a>
             </td>
         </tr>
     </tr>
