@@ -76,5 +76,22 @@
                 <a href="/bin/RegFix/RegFix-DisableBatteryIconTimeRemaining.zip" download="RegFix-DisableBatteryIconTimeRemaining.zip">Get Fix</a>
             </td>
         </tr>
+    <tr>
+        <td><h3>Internet Security tools</h3></td>
+        <tr>
+            <td>OpenDNS Test Page</td>
+            <td>Test if your OpenDNS Settings are working or not, DNS_1 : 208.67.222.222 , DNS_2 : 208.67.220.220</td>
+            <td>
+                <a href="https://welcome.opendns.com/" target="_blank">Test OpenDNS</a>
+            </td>
+        </tr>
+        <tr>
+            <td>AMTSO Free Tools</td>
+            <td>Test for Anti-Phishing, Anit-Malware Download, PUA, Lookups etc.</td>
+            <td>
+                <a href="https://www.amtso.org/security-features-check/" target="_blank">Test OpenDNS</a>
+            </td>
+        </tr>
+    </tr>
     </table>
 </body>
