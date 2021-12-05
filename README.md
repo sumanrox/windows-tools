@@ -102,13 +102,6 @@
                 <a href="/bin/3rd-Party/Internet Download Manager.zip" target="_blank">Download IDM</a>
             </td>
         </tr>
-        <tr>
-            <td>CleanMyMac</td>
-            <td>CleanMyMac_X 4.8.4 Pre-cracked</td>
-            <td>
-                <a href="/bin/3rd-Party/CleanMyMac_X_4.8.4.dmg" target="_blank">Download CleanMyMac X</a>
-            </td>
-        </tr>
     </tr>
     </table>
 </body>
