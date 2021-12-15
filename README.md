@@ -102,6 +102,13 @@
                 <a href="/bin/3rd-Party/Internet Download Manager.zip" target="_blank">Download IDM</a>
             </td>
         </tr>
+        <tr>
+            <td>CCleaner</td>
+            <td>Cleaner + Patch</td>
+            <td>
+                <a href="/bin/3rd-Party/CCleaner Professional v5.86.zip" target="_blank">Download CCleaner</a>
+            </td>
+        </tr>
     </tr>
     </table>
 </body>
