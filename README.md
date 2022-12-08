@@ -26,6 +26,13 @@
             </td>
         </tr>
         <tr>
+            <td>Enable Hyper V</td>
+            <td>This tool allows you to enable Hyper-V on Windows Home Edition</td>
+            <td>
+                <a href="/bin/Batch/enable-hyperv.zip" download="enable-hyperv.zip">Get Hyper-V</a>
+            </td>
+        </tr>
+        <tr>
             <td>GP-Edit Installer</td>
             <td>Installs gpedit.msc where you might require for performing troubleshooting on windows policies in Windows 10 Home</td>
             <td>
