@@ -1,121 +1,77 @@
-<body>
-    <h1>Windows Tools</h1>
-    <hr>
-    <h4>This is Repo consist of quick fixes for Windows Troubleshooting</h4>
-    <table>
-        <tr>
-        <td>Tool</td> 
-        <td>Description</td> 
-        <td>Get</td> 
-        </tr>
-        <tr>
-        <td><h3>Batch Scripts</h3></td>
-        </tr>
-        <tr>
-            <td>Automated - Windows Update Troubeshooter</td>
-            <td>Windows Update Troubeshooter, inspired by workarounds from publically available sources, this will automate the task</td>
-            <td>
-                <a href="/bin/Batch/batch-automated-windows-update-troubleshooter.zip" download="windows-update-troubleshooter.zip">Get Troubleshooter</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Auto Login Script</td>
-            <td>This tool allows you to enable auto login on your computer by registering your windows password for auto login</td>
-            <td>
-                <a href="/bin/Batch/batch-auto-login-without-password.zip" download="auto-login.zip">Get AutoLogin</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Enable Hyper V</td>
-            <td>This tool allows you to enable Hyper-V on Windows Home Edition</td>
-            <td>
-                <a href="/bin/Batch/enable-hyperv.zip" download="enable-hyperv.zip">Get Hyper-V</a>
-            </td>
-        </tr>
-        <tr>
-            <td>GP-Edit Installer</td>
-            <td>Installs gpedit.msc where you might require for performing troubleshooting on windows policies in Windows 10 Home</td>
-            <td>
-                <a href="/bin/Batch/batch-gpedit-installer.zip" download="install-gpedit.msc.zip">Get Installer</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Quick Access Fix</td>
-            <td>Tool to fix Quick Access unable to save pinned folders after a restart</td>
-            <td>
-                <a href="/bin/Batch/batch-quickaccess-fix.zip" download="quickaccess-fix.zip">Get Fix</a>
-            </td>
-        </tr>
-        <tr>
-        <td><h3>Registry Scripts</h3></td>
-        <tr>
-            <td>Google Chrome Virus Scan Failed</td>
-            <td>Registry Fix for Google Chrome unable to save files cause of virus scan failure</td>
-            <td>
-                <a href="/bin/RegFix/Regfix-google_chrome-virus-scan-issue.zip" download="google-chrome-fix.zip">Get Fix</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Outlook Link Fix</td>
-            <td>The script fixes the issues where the outlook unable to open any links cause of ogranisation policies</td>
-            <td>
-                <a href="/bin/RegFix/Regfix-outlook-link-issue.zip" download="outlook-fix.zip">Get Fix</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows 10 Camera</td>
-            <td>Registry Fix for Windows 10 Camera Black Screen</td>
-            <td>
-                <a href="/bin/RegFix/Regfix-windows-10-camera.zip" download="camera-fix.zip">Get Fix</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows 10 Enable Battery Life Estimate</td>
-            <td>Registry Fix for Windows 10 to Enable Battery Life Estimate information, restart computer after use</td>
-            <td>
-                <a href="/bin/RegFix/Regfix-EnableBatteryIconTimeRemaining.zip" download="Regfix-EnableBatteryIconTimeRemaining.zip">Get Fix</a>
-            </td>
-        </tr>
-        <tr>
-            <td>Windows 10 Disable Battery Life Estimate</td>
-            <td>Registry Fix for Windows 10 to Disable Battery Life Estimate information, restart computer after use</td>
-            <td>
-                <a href="/bin/RegFix/RegFix-DisableBatteryIconTimeRemaining.zip" download="RegFix-DisableBatteryIconTimeRemaining.zip">Get Fix</a>
-            </td>
-        </tr>
-    <tr>
-        <td><h3>Internet Security tools</h3></td>
-        <tr>
-            <td>OpenDNS Test Page</td>
-            <td>Test if your OpenDNS Settings are working or not, DNS_1 : 208.67.222.222 , DNS_2 : 208.67.220.220</td>
-            <td>
-                <a href="https://welcome.opendns.com/" target="_blank">Test OpenDNS</a>
-            </td>
-        </tr>
-        <tr>
-            <td>AMTSO Free Tools</td>
-            <td>Test for Anti-Phishing, Anit-Malware Download, PUA, Lookups etc.</td>
-            <td>
-                <a href="https://www.amtso.org/security-features-check/" target="_blank">Check Tools</a>
-            </td>
-        </tr>
-    </tr>
-    <tr>
-        <td><h3>3rd Party Tools</h3></td>
-        <tr>
-            <td>Internet Download Manager</td>
-            <td>IDM Pre-cracked</td>
-            <td>
-                <a href="/bin/3rd-Party/Internet Download Manager.zip" target="_blank">Download IDM</a>
-            </td>
-        </tr>
-        <tr>
-            <td>CCleaner</td>
-            <td>Cleaner + Patch</td>
-            <td>
-                <a href="/bin/3rd-Party/CCleaner Professional v5.86.zip" target="_blank">Download CCleaner</a>
-            </td>
-        </tr>
-    </tr>
-    </table>
-</body>
+# Windows Tools
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Overview
+
+This repository contains a collection of quick fixes and tools for troubleshooting common issues on Windows.
+
+## Tools
+
+### Batch Scripts
+
+- **Automated - Windows Update Troubleshooter**
+  - *Description*: Automates the Windows Update troubleshooting process, inspired by publicly available sources.
+  - *Download*: [Get Troubleshooter](/bin/Batch/batch-automated-windows-update-troubleshooter.zip)
+
+- **Auto Login Script**
+  - *Description*: Enables auto-login by registering your Windows password.
+  - *Download*: [Get AutoLogin](/bin/Batch/batch-auto-login-without-password.zip)
+
+- **Enable Hyper V**
+  - *Description*: Enables Hyper-V on Windows Home Edition.
+  - *Download*: [Get Hyper-V](/bin/Batch/enable-hyperv.zip)
+
+- **GP-Edit Installer**
+  - *Description*: Installs gpedit.msc for troubleshooting Windows policies in Windows 10 Home.
+  - *Download*: [Get Installer](/bin/Batch/batch-gpedit-installer.zip)
+
+- **Quick Access Fix**
+  - *Description*: Fixes Quick Access issues with pinned folders after a restart.
+  - *Download*: [Get Fix](/bin/Batch/batch-quickaccess-fix.zip)
+
+### Registry Scripts
+
+- **Google Chrome Virus Scan Failed**
+  - *Description*: Registry fix for Google Chrome failing to save files due to virus scan issues.
+  - *Download*: [Get Fix](/bin/RegFix/Regfix-google_chrome-virus-scan-issue.zip)
+
+- **Outlook Link Fix**
+  - *Description*: Fixes issues with Outlook unable to open links due to organization policies.
+  - *Download*: [Get Fix](/bin/RegFix/Regfix-outlook-link-issue.zip)
+
+- **Windows 10 Camera**
+  - *Description*: Registry fix for Windows 10 Camera black screen issue.
+  - *Download*: [Get Fix](/bin/RegFix/Regfix-windows-10-camera.zip)
+
+- **Windows 10 Enable Battery Life Estimate**
+  - *Description*: Registry fix to enable Battery Life Estimate information in Windows 10.
+  - *Download*: [Get Fix](/bin/RegFix/Regfix-EnableBatteryIconTimeRemaining.zip)
+
+- **Windows 10 Disable Battery Life Estimate**
+  - *Description*: Registry fix to disable Battery Life Estimate information in Windows 10.
+  - *Download*: [Get Fix](/bin/RegFix/RegFix-DisableBatteryIconTimeRemaining.zip)
+
+### Internet Security Tools
+
+- **OpenDNS Test Page**
+  - *Description*: Test if your OpenDNS settings are working. DNS_1: 208.67.222.222, DNS_2: 208.67.220.220.
+  - *Link*: [Test OpenDNS](https://welcome.opendns.com/)
+
+- **AMTSO Free Tools**
+  - *Description*: Test for Anti-Phishing, Anti-Malware Download, PUA, Lookups, etc.
+  - *Link*: [Check Tools](https://www.amtso.org/security-features-check/)
+
+### 3rd Party Tools
+
+- **Internet Download Manager**
+  - *Description*: Pre-cracked IDM (Internet Download Manager).
+  - *Download*: [Download IDM](/bin/3rd-Party/Internet%20Download%20Manager.zip)
+
+- **CCleaner**
+  - *Description*: Cleaner tool with patch.
+  - *Download*: [Download CCleaner](/bin/3rd-Party/CCleaner%20Professional%20v5.86.zip)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
